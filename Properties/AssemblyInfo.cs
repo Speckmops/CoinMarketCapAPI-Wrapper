@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("CoinMarketCapAPI")]
-[assembly: AssemblyDescription("API for CoinMarketCap")]
+[assembly: AssemblyDescription("API-Wrapper for CoinMarketCap")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Stefan Zehnpfennig")]
 [assembly: AssemblyProduct("CoinMarketCapAPI")]
