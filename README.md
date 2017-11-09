@@ -1,5 +1,5 @@
-# CoinMarketCapAPI
-CoinMarketCapAPI is a simple C# Library for Wrapping the CoinMarketCapAPI.
+# CoinMarketCapAPI-Wrapper
+CoinMarketCapAPI-Wrapper is a simple C# Library for Wrapping the CoinMarketCapAPI.
 
 Dev-Website: http://par0noid.info
 
