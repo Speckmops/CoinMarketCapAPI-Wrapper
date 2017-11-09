@@ -33,6 +33,13 @@
   <ItemGroup>
     <Compile Include="CoinMarketCapAPI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structs\ConvertedCurrency.cs" />
+    <Compile Include="Structs\ConvertedGlobalInformation.cs" />
+    <Compile Include="Structs\GlobalInformation.cs" />
+    <Compile Include="Types\Currency.cs" />
+    <Compile Include="Structs\Coin.cs" />
+    <Compile Include="Types\CoinType.cs" />
+    <Compile Include="Types\Exceptions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="CHANGELOG" />
