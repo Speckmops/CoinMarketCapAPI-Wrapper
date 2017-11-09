@@ -5,7 +5,7 @@ Dev-Website: http://par0noid.info
 
 
 # Getting startet
-You just have to include the CoinMarketCapAPI.dll from bin\ directory into your project.
+You just have to include the CoinMarketCapAPI-Wrapper.dll from bin\ directory into your project.
 
 After that add this namespace to your using-section:
 ```C#
