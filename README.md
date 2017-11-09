@@ -4,7 +4,7 @@ CoinMarketCapAPI-Wrapper is a simple C# Library for Wrapping the CoinMarketCapAP
 Dev-Website: http://par0noid.info
 
 
-# Getting startet
+# Getting started
 You just have to include the CoinMarketCapAPI-Wrapper.dll from bin\ directory into your project.
 
 After that add this namespace to your using-section:
