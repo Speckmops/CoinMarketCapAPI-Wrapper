@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("CoinMarketCapAPI")]
+[assembly: AssemblyTitle("CoinMarketCapAPI-Wrapper")]
 [assembly: AssemblyDescription("API-Wrapper for CoinMarketCap")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Stefan Zehnpfennig")]
-[assembly: AssemblyProduct("CoinMarketCapAPI")]
+[assembly: AssemblyProduct("CoinMarketCapAPI-Wrapper")]
 [assembly: AssemblyCopyright("Copyright © by par0noid.info 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
